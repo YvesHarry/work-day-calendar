@@ -13,7 +13,7 @@ N/A
 
  Type and event and save it. You will that even if you refresh the page the event will stay because it is saved in the localStorage.
 
-![Alt text](image-1.png)
+![Alt text](image.png)
 ![Alt text](image-2.png)
 
 #Credits
